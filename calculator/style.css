@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    transition: background-color 5.0s;
+}
+
 table {
     border-collapse: collapse;
 }
@@ -48,4 +52,3 @@ td {
     padding: 20px;
     margin: 10px;
 }
-
